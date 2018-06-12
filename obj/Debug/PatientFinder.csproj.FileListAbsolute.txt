@@ -1,0 +1,16 @@
+c:\users\luke\documents\visual studio 2015\Projects\PatientFinder\PatientFinder\bin\Debug\PatientFinder.exe.config
+c:\users\luke\documents\visual studio 2015\Projects\PatientFinder\PatientFinder\bin\Debug\PatientFinder.exe
+c:\users\luke\documents\visual studio 2015\Projects\PatientFinder\PatientFinder\bin\Debug\PatientFinder.pdb
+c:\users\luke\documents\visual studio 2015\Projects\PatientFinder\PatientFinder\obj\Debug\PatientFinder.csprojResolveAssemblyReference.cache
+c:\users\luke\documents\visual studio 2015\Projects\PatientFinder\PatientFinder\obj\Debug\PatientFinder.Properties.Resources.resources
+c:\users\luke\documents\visual studio 2015\Projects\PatientFinder\PatientFinder\obj\Debug\PatientFinder.csproj.GenerateResource.Cache
+c:\users\luke\documents\visual studio 2015\Projects\PatientFinder\PatientFinder\obj\Debug\PatientFinder.exe
+c:\users\luke\documents\visual studio 2015\Projects\PatientFinder\PatientFinder\obj\Debug\PatientFinder.pdb
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PatientFinder\PatientFinder\bin\Debug\EntityFramework.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PatientFinder\PatientFinder\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PatientFinder\PatientFinder\bin\Debug\EntityFramework.xml
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PatientFinder\PatientFinder\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PatientFinder\PatientFinder\obj\Debug\PatientFinder.AddForm.resources
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PatientFinder\PatientFinder\obj\Debug\PatientFinder.FirstForm.resources
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PatientFinder\PatientFinder\obj\Debug\PatientFinder.DischargeForm.resources
+C:\Users\Luke\Documents\Visual Studio 2015\Projects\PatientFinder\PatientFinder\obj\Debug\PatientFinder.SearchPatient.resources
